@@ -1,0 +1,27 @@
+.NavbarCont {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.NavbarCont .Navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 80%;
+  font-size: 22px;
+  padding: 20px 0;
+}
+.NavbarCont .Navbar .NavbarOne {
+  display: flex;
+  justify-content: space-between;
+  width: 60%;
+  gap: 20px;
+}
+.NavbarCont .Navbar .Pages {
+  display: flex;
+  gap: 15px;
+}
+.NavbarCont .Navbar .icons {
+  display: flex;
+  gap: 15px;
+}/*# sourceMappingURL=navbar.css.map */
